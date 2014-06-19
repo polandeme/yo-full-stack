@@ -5,6 +5,7 @@ yeoman full stack demo use angular & express
 
 ###学习[yeoman](yeoman.io)，为relative搭建server及相应准备
 - 了解文件结构  
+- Node input 传值  
 
 ####[angular](http://angularjs.org/)  
 ####[full-stack](https://github.com/DaftMonk/generator-angular-fullstack)  
